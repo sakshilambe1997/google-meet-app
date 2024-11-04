@@ -2,7 +2,9 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>Header</div>
+    <header className="header">
+      <h1>Google Meet </h1>
+    </header>
   )
 }
 
